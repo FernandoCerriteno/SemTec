@@ -1,3 +1,7 @@
+#Este programa fue creado con la documentación obtenida de la pagina geeksforgeeks https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/ creado por KaranGupta5
+#Asi mismo se siguio el código creado en el video Color Filtering - OpenCV with Python for Image and Video Analysis 7 por el usuario sentdex https://www.youtube.com/watch?v=CCOXg75HkvM
+#Es importante tener instalado el paquete opencv-python para poder correr el programa
+
 import numpy as np
 import cv2
 
